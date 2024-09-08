@@ -39,7 +39,7 @@ nav ul li a:hover {
 
 main {
     padding: 20px;
-    color: #4a148c; /* Dark purple text */
+    color: #000; /* Black text for main content */
 }
 
 main ul {
