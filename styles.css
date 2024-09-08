@@ -2,10 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f3e5f5; /* Light purple background */
 }
 
 header {
-    background-color: #333;
+    background-color: #6a1b9a; /* Dark purple */
     color: #fff;
     padding: 10px 0;
 }
@@ -31,12 +32,17 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a:hover {
+    color: #ce93d8; /* Lighter purple on hover */
+}
+
 main {
     padding: 20px;
+    color: #4a148c; /* Dark purple text */
 }
 
 footer {
-    background-color: #333;
+    background-color: #6a1b9a; /* Dark purple */
     color: #fff;
     text-align: center;
     padding: 10px 0;
